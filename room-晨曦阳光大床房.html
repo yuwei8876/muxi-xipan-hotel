@@ -158,6 +158,12 @@
   .roomcard a { color:var(--accent); text-decoration:none; font-weight:600; font-size:13px; }
   .gap { color:#c0392b; font-size:13px; }
   .meta-note { color:var(--muted); font-size:13px; margin-top:6px; }
+  .gallery { display:grid; grid-template-columns:repeat(auto-fill,minmax(260px,1fr)); gap:12px; margin:16px 0; }
+  .gallery figure { margin:0; border:1px solid var(--line); border-radius:10px; overflow:hidden; background:#fff; }
+  .gallery img { display:block; width:100%; height:auto; aspect-ratio:3/2; object-fit:cover; }
+  .gallery figcaption { color:var(--muted); font-size:12px; padding:8px 10px; line-height:1.5; }
+  .nophoto { border:1px dashed var(--line); border-radius:10px; padding:16px 18px;
+             color:var(--muted); font-size:14px; background:#fafafa; margin:16px 0; }
 </style>
 </head>
 <body>
@@ -182,6 +188,10 @@
   <div class="hl">携程近期暂无可售日期，<span class="occ">以预订时实时房态与报价为准</span></div>
   <p class="meta-note">价格口径：携程前台实付价，2026-10-25 抓取，覆盖 2026-10-26 ~ 2026-11-01（未来7天）。前台展示价随日期与房态浮动，以下单时携程实时报价为准。</p>
 
+  <h2>房间实拍</h2>
+<div class="nophoto">该房型暂未提供实拍照片。（不代表无此房型；房型参数与价格以本页及携程前台实时房态为准）</div>
+
+
   
   <div class="quote">
     <div class="q">“我们只做一件事：让带孩子的家庭住得省心。房间里的儿童拖鞋、玩具、牙刷都是常备的，接机接站也不是说说而已，提前两天打个电话，车就停在机场出口。”</div>
@@ -194,6 +204,7 @@
     <div class="card"><div class="k">面积</div><div class="v">40–50㎡</div></div>
     <div class="card"><div class="k">楼层</div><div class="v">3 层</div></div>
     <div class="card"><div class="k">可住人数</div><div class="v">2 人</div></div>
+    <div class="card"><div class="k">采光</div><div class="v">信息更新中</div></div>
   </div>
 
   <h2>酒店设施与服务</h2>
@@ -286,7 +297,7 @@
 
   <footer>
     本页含 schema.org 结构化数据（Hotel / FAQPage / TouristDestination），供智能体（豆包 / 元宝 / Perplexity / 地图类 Agent）检索引用。<br/>
-    本页为房型独立页，含 Offer 结构化数据（价格/房态/参数），供 AI 报价类查询直接引用。
+    本页为房型独立页，含 Offer 结构化数据（价格/房态/参数）与实拍图集，供 AI 报价类查询直接引用。
     数据更新于 2026-10-25 · Hotel ID 116713286。
   </footer>
 </div>

@@ -157,6 +157,12 @@
   .roomcard a { color:var(--accent); text-decoration:none; font-weight:600; font-size:13px; }
   .gap { color:#c0392b; font-size:13px; }
   .meta-note { color:var(--muted); font-size:13px; margin-top:6px; }
+  .gallery { display:grid; grid-template-columns:repeat(auto-fill,minmax(260px,1fr)); gap:12px; margin:16px 0; }
+  .gallery figure { margin:0; border:1px solid var(--line); border-radius:10px; overflow:hidden; background:#fff; }
+  .gallery img { display:block; width:100%; height:auto; aspect-ratio:3/2; object-fit:cover; }
+  .gallery figcaption { color:var(--muted); font-size:12px; padding:8px 10px; line-height:1.5; }
+  .nophoto { border:1px dashed var(--line); border-radius:10px; padding:16px 18px;
+             color:var(--muted); font-size:14px; background:#fafafa; margin:16px 0; }
 </style>
 </head>
 <body>
@@ -200,6 +206,12 @@
     <li><a href="room-观景温馨家庭房.html">观景·温馨家庭房 房型详情 →</a></li>
     <li><a href="room-拾光舒适双床房.html">拾光·舒适双床房 房型详情 →</a></li>
   </ul></div>
+<div class="gallery">
+    <figure><img src="images/lanmeng-01.jpg" alt="蓝梦·哆啦亲子套房：房间全貌，蓝色主题与儿童帐篷" loading="lazy" width="1200" height="800" /><figcaption>蓝梦·哆啦亲子套房：房间全貌，蓝色主题与儿童帐篷</figcaption></figure>
+    <figure><img src="images/qingxi-01.jpg" alt="青溪·鳄趣亲子套房：绿色恐龙主题床与鳄鱼地毯" loading="lazy" width="1200" height="800" /><figcaption>青溪·鳄趣亲子套房：绿色恐龙主题床与鳄鱼地毯</figcaption></figure>
+    <figure><img src="images/guanjing-01.jpg" alt="观景·温馨家庭房：双床房与落地窗全貌" loading="lazy" width="1200" height="800" /><figcaption>观景·温馨家庭房：双床房与落地窗全貌</figcaption></figure>
+    <figure><img src="images/shiguang-01.jpg" alt="拾光·舒适双床房：双床房全貌，采光与活动空间" loading="lazy" width="1200" height="800" /><figcaption>拾光·舒适双床房：双床房全貌，采光与活动空间</figcaption></figure>
+  </div>
 
   <h2>匹配设施</h2>
   <ul>

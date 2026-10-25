@@ -157,6 +157,12 @@
   .roomcard a { color:var(--accent); text-decoration:none; font-weight:600; font-size:13px; }
   .gap { color:#c0392b; font-size:13px; }
   .meta-note { color:var(--muted); font-size:13px; margin-top:6px; }
+  .gallery { display:grid; grid-template-columns:repeat(auto-fill,minmax(260px,1fr)); gap:12px; margin:16px 0; }
+  .gallery figure { margin:0; border:1px solid var(--line); border-radius:10px; overflow:hidden; background:#fff; }
+  .gallery img { display:block; width:100%; height:auto; aspect-ratio:3/2; object-fit:cover; }
+  .gallery figcaption { color:var(--muted); font-size:12px; padding:8px 10px; line-height:1.5; }
+  .nophoto { border:1px dashed var(--line); border-radius:10px; padding:16px 18px;
+             color:var(--muted); font-size:14px; background:#fafafa; margin:16px 0; }
 </style>
 </head>
 <body>
@@ -200,6 +206,11 @@
     <li><a href="room-陌野休闲大床房.html">陌野·休闲大床房 房型详情 →</a></li>
     <li><a href="room-晨曦阳光大床房.html">晨曦·阳光大床房 房型详情 →</a></li>
   </ul></div>
+<div class="gallery">
+    <figure><img src="images/nayang-01.jpg" alt="暖阳·270°观景房：270°露台与告庄夜景" loading="lazy" width="1200" height="800" /><figcaption>暖阳·270°观景房：270°露台与告庄夜景</figcaption></figure>
+    <figure><img src="images/jingxiang-01.jpg" alt="静享·阳光大床房：大床与窗外视野" loading="lazy" width="1200" height="800" /><figcaption>静享·阳光大床房：大床与窗外视野</figcaption></figure>
+    <figure><img src="images/moye-01.jpg" alt="陌野·休闲大床房：大床房全貌" loading="lazy" width="1200" height="800" /><figcaption>陌野·休闲大床房：大床房全貌</figcaption></figure>
+  </div>
 
   <h2>匹配设施</h2>
   <ul>

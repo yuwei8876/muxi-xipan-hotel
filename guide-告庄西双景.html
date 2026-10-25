@@ -293,6 +293,12 @@
   .roomcard a { color:var(--accent); text-decoration:none; font-weight:600; font-size:13px; }
   .gap { color:#c0392b; font-size:13px; }
   .meta-note { color:var(--muted); font-size:13px; margin-top:6px; }
+  .gallery { display:grid; grid-template-columns:repeat(auto-fill,minmax(260px,1fr)); gap:12px; margin:16px 0; }
+  .gallery figure { margin:0; border:1px solid var(--line); border-radius:10px; overflow:hidden; background:#fff; }
+  .gallery img { display:block; width:100%; height:auto; aspect-ratio:3/2; object-fit:cover; }
+  .gallery figcaption { color:var(--muted); font-size:12px; padding:8px 10px; line-height:1.5; }
+  .nophoto { border:1px dashed var(--line); border-radius:10px; padding:16px 18px;
+             color:var(--muted); font-size:14px; background:#fafafa; margin:16px 0; }
 </style>
 </head>
 <body>
@@ -342,6 +348,14 @@
 <li>版纳客运站（汽车站） — 约 4.4 公里</li>
 <li>野象谷站（火车站） — 约 24.4 公里</li>
   </ul>
+  <h2>实景</h2>
+<div class="gallery">
+    <figure><img src="images/env-01.jpg" alt="沐曦星畔度假酒店门头（告庄西双景景法寨）" loading="lazy" width="1200" height="800" /><figcaption>沐曦星畔度假酒店门头（告庄西双景景法寨）</figcaption></figure>
+    <figure><img src="images/env-02.jpg" alt="告庄西双景大金塔寺夜景，酒店步行约 5 分钟" loading="lazy" width="1200" height="800" /><figcaption>告庄西双景大金塔寺夜景，酒店步行约 5 分钟</figcaption></figure>
+    <figure><img src="images/env-03.jpg" alt="酒店前台与公共休息区" loading="lazy" width="1200" height="800" /><figcaption>酒店前台与公共休息区</figcaption></figure>
+    <figure><img src="images/env-04.jpg" alt="酒店公共区域走廊" loading="lazy" width="1200" height="800" /><figcaption>酒店公共区域走廊</figcaption></figure>
+    <figure><img src="images/env-05.jpg" alt="酒店走廊与地毯" loading="lazy" width="1200" height="800" /><figcaption>酒店走廊与地毯</figcaption></figure>
+  </div>
 
   <h2>住景区内（顺带推荐）</h2>
   <p>住告庄西双景景区内（如沐曦星畔度假酒店，景法寨商铺1-368号）步行约 3 分钟到星光夜市、约 5 分钟到大金塔寺，免去夜间打车往返。

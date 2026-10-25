@@ -239,7 +239,7 @@
   "roomTypes": [
     {
       "name": "星月·特惠大床房",
-      "description": "全屋智控+零压静音+智能马桶，25–30㎡，3层，经济实惠，适合差旅与预算敏感客群",
+      "description": "全屋智控+零压静音+智能马桶，25–30㎡，3层，经济实惠，适合差旅与预算敏感客群；该房型无窗（全人工照明），注重采光请选带阳台或观景的房型",
       "area": "25–30㎡",
       "floor": 3,
       "maxOccupancy": 2,
@@ -248,7 +248,9 @@
       "priceMax": 89,
       "priceDays": 7,
       "originalPrice": 142,
-      "priceStatus": "on_sale"
+      "priceStatus": "on_sale",
+      "windowType": "无窗（全人工照明）",
+      "windowTypeSource": "酒店实拍照片 + 房型档案命名，经老于确认"
     },
     {
       "name": "陌野·休闲大床房",
@@ -573,6 +575,12 @@
   .roomcard a { color:var(--accent); text-decoration:none; font-weight:600; font-size:13px; }
   .gap { color:#c0392b; font-size:13px; }
   .meta-note { color:var(--muted); font-size:13px; margin-top:6px; }
+  .gallery { display:grid; grid-template-columns:repeat(auto-fill,minmax(260px,1fr)); gap:12px; margin:16px 0; }
+  .gallery figure { margin:0; border:1px solid var(--line); border-radius:10px; overflow:hidden; background:#fff; }
+  .gallery img { display:block; width:100%; height:auto; aspect-ratio:3/2; object-fit:cover; }
+  .gallery figcaption { color:var(--muted); font-size:12px; padding:8px 10px; line-height:1.5; }
+  .nophoto { border:1px dashed var(--line); border-radius:10px; padding:16px 18px;
+             color:var(--muted); font-size:14px; background:#fafafa; margin:16px 0; }
 </style>
 </head>
 <body>
@@ -658,7 +666,7 @@
   <h2>房型与价格</h2>
 <p class="lede" style="margin:12px 0;">价格为携程前台实付价 · 近7天均价（2026-10-25 抓取，覆盖 2026-10-26 ~ 2026-11-01（未来7天）），随日期与房态浮动，以预订时携程实时报价为准。</p>
   <ul>
-<li><div class="rname">星月·特惠大床房</div><span class="price">¥82/晚</span><span class="occ">近7日 ¥72–89</span><span class="occ">可住 2 人</span><span class="occ">25–30㎡</span><span class="occ">3层</span><div class="rdesc">全屋智控+零压静音+智能马桶，25–30㎡，3层，经济实惠，适合差旅与预算敏感客群</div></li>
+<li><div class="rname">星月·特惠大床房</div><span class="price">¥82/晚</span><span class="occ">近7日 ¥72–89</span><span class="occ">可住 2 人</span><span class="occ">25–30㎡</span><span class="occ">3层</span><div class="rdesc">全屋智控+零压静音+智能马桶，25–30㎡，3层，经济实惠，适合差旅与预算敏感客群；该房型无窗（全人工照明），注重采光请选带阳台或观景的房型</div></li>
 <li><div class="rname">陌野·休闲大床房</div><span class="price">¥101/晚</span><span class="occ">近7日 ¥101–103</span><span class="occ">可住 2 人</span><span class="occ">30–35㎡</span><span class="occ">3层</span><div class="rdesc">全屋智控+零压静音+智能马桶，30–35㎡，3层，安静舒适，适合情侣与独行客</div></li>
 <li><div class="rname">静享·阳光大床房</div><span class="price">¥112/晚</span><span class="occ">近7日 ¥112–114</span><span class="occ">可住 2 人</span><span class="occ">35–40㎡</span><span class="occ">3层</span><div class="rdesc">全屋智控+零压静音+阳台观景，35–40㎡，3层，采光充裕，白天通透夜晚安静</div></li>
 <li><div class="rname">拾光·舒适双床房</div><span class="price">¥124/晚</span><span class="occ">近7日 ¥124–126</span><span class="occ">可住 2 人</span><span class="occ">35–45㎡</span><span class="occ">3层</span><div class="rdesc">全屋智控+零压睡感+智能马桶，35–45㎡，3层，双床配置，适合朋友同行或一大一小亲子客</div></li>
@@ -669,16 +677,26 @@
 <li><div class="rname">暖阳·270°观景房</div><span class="price">¥171/晚</span><span class="occ">近7日 ¥171–174</span><span class="occ">可住 2 人</span><span class="occ">50–60㎡</span><span class="occ">4层</span><div class="rdesc">全屋智控+露台观景+零压睡感，50–60㎡，4层，270度观景，店内景观最佳房型</div></li>
   </ul>
   <div class="roomgrid">
-    <div class="roomcard"><div class="rn">星月·特惠大床房</div><div class="rp"><span class="price">¥82/晚</span><span class="occ">近7日 ¥72–89</span></div><div class="rd">25–30㎡ · 3层 · 可住 2 人</div><div class="rd">全屋智控+零压静音+智能马桶，25–30㎡，3层，经济实惠，适合差旅与预算敏感客群</div><a href="room-星月特惠大床房.html">房型详情 →</a></div>
-    <div class="roomcard"><div class="rn">陌野·休闲大床房</div><div class="rp"><span class="price">¥101/晚</span><span class="occ">近7日 ¥101–103</span></div><div class="rd">30–35㎡ · 3层 · 可住 2 人</div><div class="rd">全屋智控+零压静音+智能马桶，30–35㎡，3层，安静舒适，适合情侣与独行客</div><a href="room-陌野休闲大床房.html">房型详情 →</a></div>
-    <div class="roomcard"><div class="rn">静享·阳光大床房</div><div class="rp"><span class="price">¥112/晚</span><span class="occ">近7日 ¥112–114</span></div><div class="rd">35–40㎡ · 3层 · 可住 2 人</div><div class="rd">全屋智控+零压静音+阳台观景，35–40㎡，3层，采光充裕，白天通透夜晚安静</div><a href="room-静享阳光大床房.html">房型详情 →</a></div>
-    <div class="roomcard"><div class="rn">拾光·舒适双床房</div><div class="rp"><span class="price">¥124/晚</span><span class="occ">近7日 ¥124–126</span></div><div class="rd">35–45㎡ · 3层 · 可住 2 人</div><div class="rd">全屋智控+零压睡感+智能马桶，35–45㎡，3层，双床配置，适合朋友同行或一大一小亲子客</div><a href="room-拾光舒适双床房.html">房型详情 →</a></div>
+    <div class="roomcard"><img src="images/xingyue-01.jpg" alt="星月·特惠大床房：榻榻米大床房全貌（该房型无窗）" loading="lazy" style="width:100%;height:120px;object-fit:cover;border-radius:8px;margin-bottom:8px;" /><div class="rn">星月·特惠大床房</div><div class="rp"><span class="price">¥82/晚</span><span class="occ">近7日 ¥72–89</span></div><div class="rd">25–30㎡ · 3层 · 可住 2 人</div><div class="rd">全屋智控+零压静音+智能马桶，25–30㎡，3层，经济实惠，适合差旅与预算敏感客群；该房型无窗（全人工照明），注重采光请选带阳台或观景的房型</div><a href="room-星月特惠大床房.html">房型详情 →</a></div>
+    <div class="roomcard"><img src="images/moye-01.jpg" alt="陌野·休闲大床房：大床房全貌" loading="lazy" style="width:100%;height:120px;object-fit:cover;border-radius:8px;margin-bottom:8px;" /><div class="rn">陌野·休闲大床房</div><div class="rp"><span class="price">¥101/晚</span><span class="occ">近7日 ¥101–103</span></div><div class="rd">30–35㎡ · 3层 · 可住 2 人</div><div class="rd">全屋智控+零压静音+智能马桶，30–35㎡，3层，安静舒适，适合情侣与独行客</div><a href="room-陌野休闲大床房.html">房型详情 →</a></div>
+    <div class="roomcard"><img src="images/jingxiang-01.jpg" alt="静享·阳光大床房：大床与窗外视野" loading="lazy" style="width:100%;height:120px;object-fit:cover;border-radius:8px;margin-bottom:8px;" /><div class="rn">静享·阳光大床房</div><div class="rp"><span class="price">¥112/晚</span><span class="occ">近7日 ¥112–114</span></div><div class="rd">35–40㎡ · 3层 · 可住 2 人</div><div class="rd">全屋智控+零压静音+阳台观景，35–40㎡，3层，采光充裕，白天通透夜晚安静</div><a href="room-静享阳光大床房.html">房型详情 →</a></div>
+    <div class="roomcard"><img src="images/shiguang-01.jpg" alt="拾光·舒适双床房：双床房全貌，采光与活动空间" loading="lazy" style="width:100%;height:120px;object-fit:cover;border-radius:8px;margin-bottom:8px;" /><div class="rn">拾光·舒适双床房</div><div class="rp"><span class="price">¥124/晚</span><span class="occ">近7日 ¥124–126</span></div><div class="rd">35–45㎡ · 3层 · 可住 2 人</div><div class="rd">全屋智控+零压睡感+智能马桶，35–45㎡，3层，双床配置，适合朋友同行或一大一小亲子客</div><a href="room-拾光舒适双床房.html">房型详情 →</a></div>
     <div class="roomcard"><div class="rn">晨曦·阳光大床房</div><div class="rp"><span class="occ">携程近期暂无可售日期 · 以实时房态为准</span></div><div class="rd">40–50㎡ · 3层 · 可住 2 人</div><div class="rd">全屋智控+零压静音+露台观景，40–50㎡，3层，带露台，视野更佳</div><a href="room-晨曦阳光大床房.html">房型详情 →</a></div>
-    <div class="roomcard"><div class="rn">观景·温馨家庭房</div><div class="rp"><span class="price">¥148/晚</span><span class="occ">近7日 ¥148–149</span></div><div class="rd">40–50㎡ · 3层 · 可住 4 人</div><div class="rd">全屋智控+180°观景+零压睡感，40–50㎡，3层，家庭房布局，适合2大1小或2大2小</div><a href="room-观景温馨家庭房.html">房型详情 →</a></div>
-    <div class="roomcard"><div class="rn">蓝梦·哆啦亲子套房</div><div class="rp"><span class="price">¥135/晚</span><span class="occ">近7日 ¥135–138</span></div><div class="rd">50㎡ · 4层 · 可住 4 人</div><div class="rd">全屋智控+定制床垫+舒适童趣，50㎡，4层，哆啦主题亲子套房，亲子家庭首选</div><a href="room-蓝梦哆啦亲子套房.html">房型详情 →</a></div>
-    <div class="roomcard"><div class="rn">青溪·鳄趣亲子套房</div><div class="rp"><span class="price">¥135/晚</span><span class="occ">近7日 ¥135–138</span></div><div class="rd">50–60㎡ · 4层 · 可住 4 人</div><div class="rd">全屋智控+定制床垫+舒适童趣，50–60㎡，4层，鳄趣主题亲子套房，孩子喜欢</div><a href="room-青溪鳄趣亲子套房.html">房型详情 →</a></div>
-    <div class="roomcard"><div class="rn">暖阳·270°观景房</div><div class="rp"><span class="price">¥171/晚</span><span class="occ">近7日 ¥171–174</span></div><div class="rd">50–60㎡ · 4层 · 可住 2 人</div><div class="rd">全屋智控+露台观景+零压睡感，50–60㎡，4层，270度观景，店内景观最佳房型</div><a href="room-暖阳270观景房.html">房型详情 →</a></div>
+    <div class="roomcard"><img src="images/guanjing-01.jpg" alt="观景·温馨家庭房：双床房与落地窗全貌" loading="lazy" style="width:100%;height:120px;object-fit:cover;border-radius:8px;margin-bottom:8px;" /><div class="rn">观景·温馨家庭房</div><div class="rp"><span class="price">¥148/晚</span><span class="occ">近7日 ¥148–149</span></div><div class="rd">40–50㎡ · 3层 · 可住 4 人</div><div class="rd">全屋智控+180°观景+零压睡感，40–50㎡，3层，家庭房布局，适合2大1小或2大2小</div><a href="room-观景温馨家庭房.html">房型详情 →</a></div>
+    <div class="roomcard"><img src="images/lanmeng-01.jpg" alt="蓝梦·哆啦亲子套房：房间全貌，蓝色主题与儿童帐篷" loading="lazy" style="width:100%;height:120px;object-fit:cover;border-radius:8px;margin-bottom:8px;" /><div class="rn">蓝梦·哆啦亲子套房</div><div class="rp"><span class="price">¥135/晚</span><span class="occ">近7日 ¥135–138</span></div><div class="rd">50㎡ · 4层 · 可住 4 人</div><div class="rd">全屋智控+定制床垫+舒适童趣，50㎡，4层，哆啦主题亲子套房，亲子家庭首选</div><a href="room-蓝梦哆啦亲子套房.html">房型详情 →</a></div>
+    <div class="roomcard"><img src="images/qingxi-01.jpg" alt="青溪·鳄趣亲子套房：绿色恐龙主题床与鳄鱼地毯" loading="lazy" style="width:100%;height:120px;object-fit:cover;border-radius:8px;margin-bottom:8px;" /><div class="rn">青溪·鳄趣亲子套房</div><div class="rp"><span class="price">¥135/晚</span><span class="occ">近7日 ¥135–138</span></div><div class="rd">50–60㎡ · 4层 · 可住 4 人</div><div class="rd">全屋智控+定制床垫+舒适童趣，50–60㎡，4层，鳄趣主题亲子套房，孩子喜欢</div><a href="room-青溪鳄趣亲子套房.html">房型详情 →</a></div>
+    <div class="roomcard"><img src="images/nayang-01.jpg" alt="暖阳·270°观景房：270°露台与告庄夜景" loading="lazy" style="width:100%;height:120px;object-fit:cover;border-radius:8px;margin-bottom:8px;" /><div class="rn">暖阳·270°观景房</div><div class="rp"><span class="price">¥171/晚</span><span class="occ">近7日 ¥171–174</span></div><div class="rd">50–60㎡ · 4层 · 可住 2 人</div><div class="rd">全屋智控+露台观景+零压睡感，50–60㎡，4层，270度观景，店内景观最佳房型</div><a href="room-暖阳270观景房.html">房型详情 →</a></div>
   </div>
+
+  <h2>酒店实景</h2>
+<div class="gallery">
+    <figure><img src="images/env-01.jpg" alt="沐曦星畔度假酒店门头（告庄西双景景法寨）" loading="lazy" width="1200" height="800" /><figcaption>沐曦星畔度假酒店门头（告庄西双景景法寨）</figcaption></figure>
+    <figure><img src="images/env-02.jpg" alt="告庄西双景大金塔寺夜景，酒店步行约 5 分钟" loading="lazy" width="1200" height="800" /><figcaption>告庄西双景大金塔寺夜景，酒店步行约 5 分钟</figcaption></figure>
+    <figure><img src="images/env-03.jpg" alt="酒店前台与公共休息区" loading="lazy" width="1200" height="800" /><figcaption>酒店前台与公共休息区</figcaption></figure>
+    <figure><img src="images/env-04.jpg" alt="酒店公共区域走廊" loading="lazy" width="1200" height="800" /><figcaption>酒店公共区域走廊</figcaption></figure>
+    <figure><img src="images/env-05.jpg" alt="酒店走廊与地毯" loading="lazy" width="1200" height="800" /><figcaption>酒店走廊与地毯</figcaption></figure>
+  </div>
+  <p class="meta-note">以上均为酒店实拍，未经修饰。</p>
 
   <h2>周边</h2>
   <ul>
