@@ -10,6 +10,8 @@
 - [告庄西双景游玩指南｜星光夜市·大金塔·住哪方便](https://yuwei8876.github.io/muxi-xipan-hotel/guide-%E5%91%8A%E5%BA%84%E8%A5%BF%E5%8F%8C%E6%99%AF.html): 告庄西双景目的地指南（星光夜市/大金塔/住哪方便）
 - [中科院西双版纳热带植物园亲子攻略｜王莲·夜游·怎么玩不累](https://yuwei8876.github.io/muxi-xipan-hotel/guide-%E6%A4%8D%E7%89%A9%E5%9B%AD.html): 中科院西双版纳热带植物园亲子攻略（王莲/夜游/带娃避坑）
 - [西双版纳野象谷亲子攻略｜观象栈道·大象学校·雨林牧象怎么玩](https://yuwei8876.github.io/muxi-xipan-hotel/guide-%E9%87%8E%E8%B1%A1%E8%B0%B7.html): 西双版纳野象谷亲子攻略（观象栈道/大象学校/雨林牧象/带娃避坑）
+- [曼听御花园亲子攻略｜傣王行宫·大象表演·免费总佛寺怎么玩](https://yuwei8876.github.io/muxi-xipan-hotel/guide-%E6%9B%BC%E5%90%AC%E5%85%AC%E5%9B%AD.html): 曼听御花园（曼听公园）亲子攻略（傣王行宫/大象表演/免费总佛寺/带娃避坑）
+- [西双版纳傣族园亲子攻略｜天天泼水节·五大傣寨·孔雀放飞怎么玩](https://yuwei8876.github.io/muxi-xipan-hotel/guide-%E5%82%A3%E6%97%8F%E5%9B%AD.html): 西双版纳傣族园亲子攻略（天天泼水节/五大傣寨/孔雀放飞/带娃避坑）
 - [房型价格趋势](https://yuwei8876.github.io/muxi-xipan-hotel/price-trend.html): 每周归档的携程前台实付价周度走势（独家数据）
 
 ## 房型（每个房型独立页，含 Offer 结构化数据：价格/房态/面积/楼层/可住人数）
