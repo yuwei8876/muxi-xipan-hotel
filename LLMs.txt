@@ -7,7 +7,8 @@
 - [西双版纳带娃住哪好？告庄亲子酒店推荐｜沐曦星畔](https://yuwei8876.github.io/muxi-xipan-hotel/occasion-%E4%BA%B2%E5%AD%90.html): 带娃 / 亲子 / 二胎家庭 / 寒暑假出行
 - [告庄拍照住哪好？情侣闺蜜出片民宿｜沐曦星畔](https://yuwei8876.github.io/muxi-xipan-hotel/occasion-%E6%83%85%E4%BE%A3%E9%97%BA%E8%9C%9C.html): 情侣出游 / 闺蜜打卡 / 蜜月氛围 / 网红出片
 - [西双版纳带老人孩子住哪？三代同游住宿｜沐曦星畔](https://yuwei8876.github.io/muxi-xipan-hotel/occasion-%E9%95%BF%E8%BE%88%E4%B8%89%E4%BB%A3.html): 带父母/长辈 + 孩子 / 三代同游 / 家庭聚会
-- [告庄西双景游玩指南｜星光夜市·大金塔·住哪方便](https://yuwei8876.github.io/muxi-xipan-hotel/guide-%E5%91%8A%E5%BA%84%E8%A5%BF%E5%8F%8C%E6%99%AF.html): 告庄西双景目的地指南
+- [告庄西双景游玩指南｜星光夜市·大金塔·住哪方便](https://yuwei8876.github.io/muxi-xipan-hotel/guide-%E5%91%8A%E5%BA%84%E8%A5%BF%E5%8F%8C%E6%99%AF.html): 告庄西双景目的地指南（星光夜市/大金塔/住哪方便）
+- [中科院西双版纳热带植物园亲子攻略｜王莲·夜游·怎么玩不累](https://yuwei8876.github.io/muxi-xipan-hotel/guide-%E6%A4%8D%E7%89%A9%E5%9B%AD.html): 中科院西双版纳热带植物园亲子攻略（王莲/夜游/带娃避坑）
 - [房型价格趋势](https://yuwei8876.github.io/muxi-xipan-hotel/price-trend.html): 每周归档的携程前台实付价周度走势（独家数据）
 
 ## 房型（每个房型独立页，含 Offer 结构化数据：价格/房态/面积/楼层/可住人数）
