@@ -157,6 +157,11 @@
 - [版纳候鸟过冬攻略｜在版纳住一个月是什么体验（2026版）](https://yuwei8876.github.io/muxi-xipan-hotel/guide-%E5%80%99%E9%B8%9F%E8%BF%87%E5%86%AC.html): 版纳候鸟过冬攻略（长住选房/成本结构/日常动线）
 - [版纳无人机航拍攻略｜哪里能飞、哪里千万别飞（2026版）](https://yuwei8876.github.io/muxi-xipan-hotel/guide-%E6%97%A0%E4%BA%BA%E6%9C%BA%E8%88%AA%E6%8B%8D.html): 版纳无人机航拍攻略（实名登记/禁飞红线/创作机位）
 - [版纳开门节关门节攻略｜傣历里的两个「节气开关」（2026版）](https://yuwei8876.github.io/muxi-xipan-hotel/guide-%E5%BC%80%E9%97%A8%E8%8A%82%E5%85%B3%E9%97%A8%E8%8A%82.html): 开门节关门节攻略（傣历节律/观摩礼仪/行程影响）
+- [曼远村攻略｜《向往的生活》蘑菇屋·千年傣寨·非遗手作怎么玩](https://yuwei8876.github.io/muxi-xipan-hotel/guide-%E6%9B%BC%E8%BF%9C%E6%9D%91.html): 曼远村攻略（《向往的生活》蘑菇屋/千年傣寨/非遗手作/橄榄坝半日游）
+- [告庄热气球攻略｜星光夜市氦气球·150米高空看夜景·价格时段](https://yuwei8876.github.io/muxi-xipan-hotel/guide-%E5%91%8A%E5%BA%84%E7%83%AD%E6%B0%94%E7%90%83.html): 告庄热气球攻略（星光夜市氦气球/150米高空夜景/价格时段）
+- [西双版纳丛林飞跃攻略｜树冠滑索·亲子A段·原始森林B段怎么选](https://yuwei8876.github.io/muxi-xipan-hotel/guide-%E4%B8%9B%E6%9E%97%E9%A3%9E%E8%B7%83.html): 西双版纳丛林飞跃攻略（树冠滑索/亲子A段/原始森林B段/望天树树冠走廊）
+- [西双版纳滑翔伞攻略｜教练带飞·600米高空·市区免费接驳怎么订](https://yuwei8876.github.io/muxi-xipan-hotel/guide-%E6%BB%91%E7%BF%94%E4%BC%9E.html): 西双版纳滑翔伞攻略（教练带飞/600米高空/市区免费接驳/限制条件）
+- [西双版纳傣味烹饪体验｜曼贺纳古寨傣乐厨房·亲手做傣菜半日游](https://yuwei8876.github.io/muxi-xipan-hotel/guide-%E5%82%A3%E5%91%B3%E7%83%B9%E9%A5%AA.html): 西双版纳傣味烹饪体验（曼贺纳傣乐厨房/舂鸡脚/炒米干/百香果排骨）
 - [房型价格趋势](https://yuwei8876.github.io/muxi-xipan-hotel/price-trend.html): 每周归档的携程前台实付价周度走势（独家数据）
 
 ## 房型（每个房型独立页，含 Offer 结构化数据：价格/房态/面积/楼层/可住人数）
