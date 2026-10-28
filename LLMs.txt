@@ -162,6 +162,11 @@
 - [西双版纳丛林飞跃攻略｜树冠滑索·亲子A段·原始森林B段怎么选](https://yuwei8876.github.io/muxi-xipan-hotel/guide-%E4%B8%9B%E6%9E%97%E9%A3%9E%E8%B7%83.html): 西双版纳丛林飞跃攻略（树冠滑索/亲子A段/原始森林B段/望天树树冠走廊）
 - [西双版纳滑翔伞攻略｜教练带飞·600米高空·市区免费接驳怎么订](https://yuwei8876.github.io/muxi-xipan-hotel/guide-%E6%BB%91%E7%BF%94%E4%BC%9E.html): 西双版纳滑翔伞攻略（教练带飞/600米高空/市区免费接驳/限制条件）
 - [西双版纳傣味烹饪体验｜曼贺纳古寨傣乐厨房·亲手做傣菜半日游](https://yuwei8876.github.io/muxi-xipan-hotel/guide-%E5%82%A3%E5%91%B3%E7%83%B9%E9%A5%AA.html): 西双版纳傣味烹饪体验（曼贺纳傣乐厨房/舂鸡脚/炒米干/百香果排骨）
+- [南腊河攻略｜望天树旁水上巨树森林·曼龙勒雨林漂流·赶摆怎么玩](https://yuwei8876.github.io/muxi-xipan-hotel/guide-%E5%8D%97%E8%85%8A%E6%B2%B3.html): 南腊河攻略（望天树水上巨树森林/曼龙勒雨林漂流/东方亚马逊/赶摆串联）
+- [布朗山茶山攻略｜老班章茶王树·滴滴站点巴士38元直达·古茶山怎么逛](https://yuwei8876.github.io/muxi-xipan-hotel/guide-%E5%B8%83%E6%9C%97%E5%B1%B1%E8%8C%B6%E5%B1%B1.html): 布朗山茶山攻略（老班章/南糯山/贺开/滴滴站点巴士38元/古茶山慢旅行）
+- [曼龙勒赶摆攻略｜周六雨林集市·傣味烧烤撒撇·藏在望天树旁的烟火](https://yuwei8876.github.io/muxi-xipan-hotel/guide-%E6%9B%BC%E9%BE%99%E5%8B%92%E8%B5%B6%E6%91%86.html): 曼龙勒赶摆攻略（周六雨林集市/傣味烧烤撒撇/望天树旁烟火/边陲村落）
+- [章朗古寨攻略｜布朗族千年茶寨·1370年贝叶经佛寺·云海古茶园怎么去](https://yuwei8876.github.io/muxi-xipan-hotel/guide-%E7%AB%A0%E6%9C%97%E5%8F%A4%E5%AF%A8.html): 章朗古寨攻略（布朗族千年茶寨/1370年贝叶经佛寺/云海古茶园/布朗弹唱）
+- [傣医药康养攻略｜非遗睡药疗法暖雅·州傣医医院体验·候鸟过冬新宠](https://yuwei8876.github.io/muxi-xipan-hotel/guide-%E5%82%A3%E5%8C%BB%E8%8D%AF%E5%BA%B7%E5%85%BB.html): 傣医药康养攻略（非遗睡药疗法暖雅/州傣医医院/祛风除湿/候鸟过冬）
 - [房型价格趋势](https://yuwei8876.github.io/muxi-xipan-hotel/price-trend.html): 每周归档的携程前台实付价周度走势（独家数据）
 
 ## 房型（每个房型独立页，含 Offer 结构化数据：价格/房态/面积/楼层/可住人数）
