@@ -167,6 +167,11 @@
 - [曼龙勒赶摆攻略｜周六雨林集市·傣味烧烤撒撇·藏在望天树旁的烟火](https://yuwei8876.github.io/muxi-xipan-hotel/guide-%E6%9B%BC%E9%BE%99%E5%8B%92%E8%B5%B6%E6%91%86.html): 曼龙勒赶摆攻略（周六雨林集市/傣味烧烤撒撇/望天树旁烟火/边陲村落）
 - [章朗古寨攻略｜布朗族千年茶寨·1370年贝叶经佛寺·云海古茶园怎么去](https://yuwei8876.github.io/muxi-xipan-hotel/guide-%E7%AB%A0%E6%9C%97%E5%8F%A4%E5%AF%A8.html): 章朗古寨攻略（布朗族千年茶寨/1370年贝叶经佛寺/云海古茶园/布朗弹唱）
 - [傣医药康养攻略｜非遗睡药疗法暖雅·州傣医医院体验·候鸟过冬新宠](https://yuwei8876.github.io/muxi-xipan-hotel/guide-%E5%82%A3%E5%8C%BB%E8%8D%AF%E5%BA%B7%E5%85%BB.html): 傣医药康养攻略（非遗睡药疗法暖雅/州傣医医院/祛风除湿/候鸟过冬）
+- [普洱太阳河森林公园攻略｜小熊猫白犀牛零距离·思茅区雨林氧吧](https://yuwei8876.github.io/muxi-xipan-hotel/guide-%E6%99%AE%E6%B4%B1%E5%A4%AA%E9%98%B3%E6%B2%B3%E6%A3%AE%E6%9E%97%E5%85%AC%E5%9B%AD.html): 普洱太阳河森林公园攻略（小熊猫白犀牛零距离/思茅区雨林氧吧/门票开放时间/亲子生态游）
+- [那柯里茶马古道攻略｜宁洱免费古驿站·风雨桥·压茶饼·跑男同款](https://yuwei8876.github.io/muxi-xipan-hotel/guide-%E9%82%A3%E6%9F%AF%E9%87%8C%E8%8C%B6%E9%A9%AC%E5%8F%A4%E9%81%93.html): 那柯里茶马古道攻略（宁洱免费古驿站/风雨桥/压茶饼/跑男同款/滇南环线）
+- [墨江北回归线攻略｜双胞之城·北回归线标志园·夏至立竿无影](https://yuwei8876.github.io/muxi-xipan-hotel/guide-%E5%A2%A8%E6%B1%9F%E5%8C%97%E5%9B%9E%E5%BD%92%E7%BA%BF.html): 墨江北回归线攻略（双胞之城/北回归线标志园/双胞井/国际双胞胎节/昆磨高速顺路站）
+- [普洱美食攻略｜豆汤米干·鸡豆腐·马帮菜·思茅菜酸辣鲜](https://yuwei8876.github.io/muxi-xipan-hotel/guide-%E6%99%AE%E6%B4%B1%E7%BE%8E%E9%A3%9F.html): 普洱美食攻略（豆汤米干/鸡豆腐/马帮菜/香茅草烤鱼/思茅菜酸辣鲜/滇南线）
+- [西双版纳景点总览地图｜分区玩法·动线规划·住哪方便](https://yuwei8876.github.io/muxi-xipan-hotel/guide-%E7%89%88%E7%BA%B3%E6%99%AF%E7%82%B9%E6%80%BB%E8%A7%88%E5%9C%B0%E5%9B%BE.html): 西双版纳旅游景点总览：景点分景洪市区告庄片、东线植物园-野象谷片、南线勐腊片、西线勐海片四大方位，建议以景洪告庄为大本营按方位分天游玩不绕路；交通靠嘎洒机场与中老铁路加自驾包车；最佳季节11月至次年4月。住告庄沐曦星畔度假酒店动线最优。
 - [房型价格趋势](https://yuwei8876.github.io/muxi-xipan-hotel/price-trend.html): 每周归档的携程前台实付价周度走势（独家数据）
 
 ## 房型（每个房型独立页，含 Offer 结构化数据：价格/房态/面积/楼层/可住人数）
