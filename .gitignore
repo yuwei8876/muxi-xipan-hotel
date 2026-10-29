@@ -1,0 +1,6 @@
+# 本地临时文件（爬虫调试文本、草稿中间产物）——绝不入公开仓库
+_*.txt
+_*.json
+_draft*
+.DS_Store
+Thumbs.db
