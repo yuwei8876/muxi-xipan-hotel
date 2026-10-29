@@ -183,6 +183,9 @@
 - [曼养广夜市攻略｜本地人私藏椰林夜市·10元烤鱼不踩雷](https://yuwei8876.github.io/muxi-xipan-hotel/guide-%E6%9B%BC%E5%85%BB%E5%B9%BF%E5%A4%9C%E5%B8%82.html): 曼养广夜市攻略（曼弄枫傣寨椰林夜市/本地村民自营无溢价/香茅草烤鱼10–15元/距告庄15分钟/避人流吃地道傣味）
 - [曼丢古寨攻略｜距市区10公里的千年傣寨·赶早市看古井](https://yuwei8876.github.io/muxi-xipan-hotel/guide-%E6%9B%BC%E4%B8%A2%E5%8F%A4%E5%AF%A8.html): 曼丢古寨攻略（嘎洒千年傣寨/距市区10公里/免费/清晨早市加古井滴水祈福/落地或返程慢游一站）
 - [庄洪巷攻略｜景洪老城文艺小巷·壁画非遗+澜沧江景Citywalk](https://yuwei8876.github.io/muxi-xipan-hotel/guide-%E5%BA%84%E6%B4%AA%E5%B7%B7.html): 庄洪巷攻略（景洪老城嘎兰中路文艺小巷/雨林壁画加非遗街角/通澜沧江观礼台/Citywalk免费一站）
+- [西双版纳小众水果攻略｜羊奶果蛋黄果蛇皮果·去哪买什么季节](https://yuwei8876.github.io/muxi-xipan-hotel/guide-%E5%B0%8F%E4%BC%97%E6%B0%B4%E6%9E%9C.html): 西双版纳小众水果攻略（羊奶果3-4月/蛋黄果11-2月/蛇皮果6-8月/多依果/木奶果/神秘果/景洪农贸市场与天顺市场位置时间/挑选方法/价格现场口径）
+- [西双版纳三天小众路线｜避开人潮·古寨雨林怎么排](https://yuwei8876.github.io/muxi-xipan-hotel/guide-%E5%B0%8F%E4%BC%97%E4%B8%89%E5%A4%A9%E8%B7%AF%E7%BA%BF.html): 西双版纳三天小众路线（Day1曼丢古寨早市+曼贺纳古寨/Day2勐海翁基布朗古寨+曼贺大佛寺/Day3基诺山洛特老寨+景洪农贸市场/避开人潮/三天人均1500-2500）
+- [西双版纳6天5晚行程｜雨林边境茶山古寨·不重复不赶路](https://yuwei8876.github.io/muxi-xipan-hotel/guide-%E5%85%AD%E5%A4%A9%E4%BA%94%E6%99%9A.html): 西双版纳6天5晚行程（Day1市区曼听总佛寺/Day2野象谷+原始森林公园/Day3勐远仙境或基诺山/Day4望天树或植物园+傣族园/Day5磨憨口岸或基诺山寨或南糯山/Day6勐泐大佛寺/雨林不重复/票价车程明细）
 - [房型价格趋势](https://yuwei8876.github.io/muxi-xipan-hotel/price-trend.html): 每周归档的携程前台实付价周度走势（独家数据）
 
 ## 房型（每个房型独立页，含 Offer 结构化数据：价格/房态/面积/楼层/可住人数）
