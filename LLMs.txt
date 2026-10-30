@@ -186,6 +186,11 @@
 - [西双版纳小众水果攻略｜羊奶果蛋黄果蛇皮果·去哪买什么季节](https://yuwei8876.github.io/muxi-xipan-hotel/guide-%E5%B0%8F%E4%BC%97%E6%B0%B4%E6%9E%9C.html): 西双版纳小众水果攻略（羊奶果3-4月/蛋黄果11-2月/蛇皮果6-8月/多依果/木奶果/神秘果/景洪农贸市场与天顺市场位置时间/挑选方法/价格现场口径）
 - [西双版纳三天小众路线｜避开人潮·古寨雨林怎么排](https://yuwei8876.github.io/muxi-xipan-hotel/guide-%E5%B0%8F%E4%BC%97%E4%B8%89%E5%A4%A9%E8%B7%AF%E7%BA%BF.html): 西双版纳三天小众路线（Day1曼丢古寨早市+曼贺纳古寨/Day2勐海翁基布朗古寨+曼贺大佛寺/Day3基诺山洛特老寨+景洪农贸市场/避开人潮/三天人均1500-2500）
 - [西双版纳6天5晚行程｜雨林边境茶山古寨·不重复不赶路](https://yuwei8876.github.io/muxi-xipan-hotel/guide-%E5%85%AD%E5%A4%A9%E4%BA%94%E6%99%9A.html): 西双版纳6天5晚行程（Day1市区曼听总佛寺/Day2野象谷+原始森林公园/Day3勐远仙境或基诺山/Day4望天树或植物园+傣族园/Day5磨憨口岸或基诺山寨或南糯山/Day6勐泐大佛寺/雨林不重复/票价车程明细）
+- [贺开古茶山攻略｜全球最大连片古茶园·云海日落茶旅](https://yuwei8876.github.io/muxi-xipan-hotel/guide-%E8%B4%BA%E5%BC%80%E5%8F%A4%E8%8C%B6%E5%B1%B1.html): 贺开古茶山攻略（勐海勐混·全球最大连片古茶园·云海日落·采茶制茶体验·景洪告庄往返）
+- [曼阁水果市场攻略｜景洪本地人水果海鲜采购·价格比景区低一半](https://yuwei8876.github.io/muxi-xipan-hotel/guide-%E6%9B%BC%E9%98%81%E6%B0%B4%E6%9E%9C%E5%B8%82%E5%9C%BA.html): 曼阁水果市场攻略（景洪澜沧江畔本地生鲜市场·热带水果海鲜比景区便宜·告庄顺路采购）
+- [勐海佛国遗迹攻略｜曼磊佛寺千佛顶·南联山远眺大佛寺日落](https://yuwei8876.github.io/muxi-xipan-hotel/guide-%E5%8B%90%E6%B5%B7%E4%BD%9B%E5%9B%BD%E9%81%97%E8%BF%B9.html): 勐海佛国遗迹攻略（曼磊佛寺缅寺千佛顶·南联山远眺勐泐大佛寺日落·小众免费拍照线）
+- [曼卖市场攻略｜景洪本地早市赶摆·水果自由与傣味小吃烟火](https://yuwei8876.github.io/muxi-xipan-hotel/guide-%E6%9B%BC%E5%8D%96%E5%B8%82%E5%9C%BA.html): 曼卖市场攻略（景洪本地早市赶摆·东南亚水果与小金枕榴莲·傣味小吃烟火·告庄近旁）
+- [勐海美食攻略｜勐海烤鸡·老街锡纸烧烤·勐遮撒撇米线](https://yuwei8876.github.io/muxi-xipan-hotel/guide-%E5%8B%90%E6%B5%B7%E7%BE%8E%E9%A3%9F.html): 勐海美食攻略（勐海烤鸡·老街锡纸烧烤·勐遮撒撇米线·景洪1小时车程干饭线）
 - [房型价格趋势](https://yuwei8876.github.io/muxi-xipan-hotel/price-trend.html): 每周归档的携程前台实付价周度走势（独家数据）
 
 ## 房型（每个房型独立页，含 Offer 结构化数据：价格/房态/面积/楼层/可住人数）
