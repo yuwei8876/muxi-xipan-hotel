@@ -201,6 +201,11 @@
 - [西双版纳三曼村攻略｜曼空岱·曼峦站·曼空迈·非遗研学村](https://yuwei8876.github.io/muxi-xipan-hotel/guide-%E4%B8%89%E6%9B%BC%E6%9D%91.html): 三曼村攻略（曼空岱非遗研学/曼峦站康养民宿/曼空迈村咖/橄榄坝联建示范村）
 - [西双版纳傣味蘸水喃咪攻略｜一桌傣味少不了的灵魂蘸料](https://yuwei8876.github.io/muxi-xipan-hotel/guide-%E5%82%A3%E5%91%B3%E8%98%B8%E6%B0%B4.html): 傣味蘸水喃咪攻略（傣族灵魂蘸料/番茄花生螃蟹酱/万物皆可蘸/告庄夜市可尝）
 - [西双版纳六国水上市场攻略｜告庄湄公河风情·乘船夜游·免门票](https://yuwei8876.github.io/muxi-xipan-hotel/guide-%E5%85%AD%E5%9B%BD%E6%B0%B4%E4%B8%8A%E5%B8%82%E5%9C%BA.html): 六国水上市场攻略（告庄湄公河风情/乘船夜游/六国小吃/免门票）
+- [西双版纳骑行攻略｜告庄环线/东线平路/中线雨林/西线茶山·新手到进阶怎么选](https://yuwei8876.github.io/muxi-xipan-hotel/guide-%E9%AA%91%E8%A1%8C%E8%B7%AF%E7%BA%BF.html): 西双版纳骑行攻略（告庄环线/东线平路/中线雨林/西线茶山·租车与时段）
+- [西双版纳孔雀宴攻略｜芭蕉叶孔雀开屏·傣味手抓宴席·12道菜怎么吃](https://yuwei8876.github.io/muxi-xipan-hotel/guide-%E5%AD%94%E9%9B%80%E5%AE%B4.html): 西双版纳孔雀宴攻略（傣族手抓饭/芭蕉叶开屏/五大技法/12道菜吃法）
+- [西双版纳夜观雨林攻略｜植物园萤火虫夜游·昆虫研学·带娃探夜间自然](https://yuwei8876.github.io/muxi-xipan-hotel/guide-%E5%A4%9C%E8%A7%82%E9%9B%A8%E6%9E%97.html): 西双版纳夜观雨林攻略（植物园萤火虫夜游/热带花卉园昆虫研学/带娃夜探）
+- [西双版纳南腊河桨板攻略｜望天树水上巨树森林·皮划艇漂流·亲水运动怎么玩](https://yuwei8876.github.io/muxi-xipan-hotel/guide-%E5%8D%97%E8%85%8A%E6%B2%B3%E6%A1%A8%E6%9D%BF.html): 西双版纳南腊河桨板攻略（望天树皮划艇/南腊河漂流/亲水运动怎么玩）
+- [西双版纳咖啡馆攻略｜景洪市区独立咖啡探店·森系庭院·橡胶林下可可咖啡](https://yuwei8876.github.io/muxi-xipan-hotel/guide-%E6%99%AF%E6%B4%AA%E5%92%96%E5%95%A1%E9%A6%86.html): 西双版纳景洪咖啡馆攻略（市区独立咖啡探店/橡胶林可可咖啡/山野茶咖庄园）
 - [房型价格趋势](https://yuwei8876.github.io/muxi-xipan-hotel/price-trend.html): 每周归档的携程前台实付价周度走势（独家数据）
 
 ## 房型（每个房型独立页，含 Offer 结构化数据：价格/房态/面积/楼层/可住人数）
