@@ -206,6 +206,10 @@
 - [西双版纳夜观雨林攻略｜植物园萤火虫夜游·昆虫研学·带娃探夜间自然](https://yuwei8876.github.io/muxi-xipan-hotel/guide-%E5%A4%9C%E8%A7%82%E9%9B%A8%E6%9E%97.html): 西双版纳夜观雨林攻略（植物园萤火虫夜游/热带花卉园昆虫研学/带娃夜探）
 - [西双版纳南腊河桨板攻略｜望天树水上巨树森林·皮划艇漂流·亲水运动怎么玩](https://yuwei8876.github.io/muxi-xipan-hotel/guide-%E5%8D%97%E8%85%8A%E6%B2%B3%E6%A1%A8%E6%9D%BF.html): 西双版纳南腊河桨板攻略（望天树皮划艇/南腊河漂流/亲水运动怎么玩）
 - [西双版纳咖啡馆攻略｜景洪市区独立咖啡探店·森系庭院·橡胶林下可可咖啡](https://yuwei8876.github.io/muxi-xipan-hotel/guide-%E6%99%AF%E6%B4%AA%E5%92%96%E5%95%A1%E9%A6%86.html): 西双版纳景洪咖啡馆攻略（市区独立咖啡探店/橡胶林可可咖啡/山野茶咖庄园）
+- [西双版纳动车到版纳攻略｜高铁站怎么去告庄·打车直通车价格](https://yuwei8876.github.io/muxi-xipan-hotel/guide-%E5%8A%A8%E8%BD%A6%E5%88%B0%E7%89%88%E7%BA%B3.html): 西双版纳动车到版纳攻略（西双版纳站/中老铁路到达，打车20-30元或版纳安心游直通车5元到告庄，昆明南最快3小时）
+- [西双版纳傣族歌舞攻略｜象脚鼓·孔雀舞·嘎光，在哪看怎么参与](https://yuwei8876.github.io/muxi-xipan-hotel/guide-%E5%82%A3%E6%97%8F%E6%AD%8C%E8%88%9E.html): 西双版纳傣族歌舞攻略（象脚鼓、孔雀舞、章哈、嘎光集体舞，星光夜市/傣族园/傣王礼宴可看可参与）
+- [西双版纳橄榄坝攻略｜澜湄夜市长桌宴·周六赶摆·傣族园半日游](https://yuwei8876.github.io/muxi-xipan-hotel/guide-%E6%A9%84%E6%A6%84%E5%9D%9D.html): 西双版纳橄榄坝攻略（勐罕坝子、澜湄观光夜市傣族长桌宴68元、周六赶摆、傣族园半日游）
+- [西双版纳基诺族博物馆攻略｜中国第56个民族·大鼓舞·巴坡村](https://yuwei8876.github.io/muxi-xipan-hotel/guide-%E5%9F%BA%E8%AF%BA%E6%97%8F%E5%8D%9A%E7%89%A9%E9%A6%86.html): 西双版纳基诺族博物馆攻略（中国第56个民族、巴坡村基诺山寨、大鼓舞非遗、雨林线串游）
 - [房型价格趋势](https://yuwei8876.github.io/muxi-xipan-hotel/price-trend.html): 每周归档的携程前台实付价周度走势（独家数据）
 
 ## 房型（每个房型独立页，含 Offer 结构化数据：价格/房态/面积/楼层/可住人数）
