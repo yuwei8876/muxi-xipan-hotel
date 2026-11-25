@@ -2,5 +2,6 @@
 _*.txt
 _*.json
 _draft*
+BingPlaces_*
 .DS_Store
 Thumbs.db
