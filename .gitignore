@@ -3,5 +3,14 @@ _*.txt
 _*.json
 _draft*
 BingPlaces_*
+.bing_key
+*.key
+*.pem
+*.genie
+.wbapp_*
+.workbuddy/
+__pycache__/
+*.py[cod]
+*.tmp
 .DS_Store
 Thumbs.db
